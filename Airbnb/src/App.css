@@ -1,0 +1,9 @@
+.nav img{
+  width:80px
+
+}
+nav{
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
